@@ -1,0 +1,31 @@
+h1 {
+    color: blue;
+}
+
+.error {
+    color: red;
+    background: lightgrey;
+    font-size: 20px;
+    border-style: 15px;
+    border-style: dashed;
+    border-radius: 5px;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+.message {
+    color: green;
+    background: lightgrey;
+    font-size: 20px;
+    border-style: 15px;
+    border-style: dashed;
+    border-radius: 5px;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+.blog {
+    color: grey;
+    padding-top: 5px;
+    font-size: 15px;
+}
